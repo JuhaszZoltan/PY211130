@@ -16,3 +16,5 @@ for c in email:
 hiba_1 = kukacok_szama != 1
 
 email.split('@', '')
+
+# kicsöngettek, nincs befejezve
